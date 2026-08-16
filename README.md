@@ -6,8 +6,7 @@ interferometry.”**
 
 ## Purpose and scope
 
-This is a **non-executable source-review snapshot**. It is provided only to make
-the mathematical and statistical implementation legible during editorial and
+It is provided only to make the mathematical and statistical implementation legible during editorial and
 peer review. The files document:
 
 - free-space and single-mode raw-null propagation;
@@ -48,7 +47,5 @@ data, numerical outputs, and reproduction workflow are retained by the authors
 and are intended for a separate post-acceptance release, subject to the final
 journal and institutional requirements.
 
-## Authors
 
-Yangdi Hu; Junru Feng; Jiankai Zhu; Tong Zhao; Huizhe Yang; Yonghui Liang.
 
